@@ -10,7 +10,7 @@ include('includes/header.php');?>
 		<div class="content">
 			<div class="block">
 				<div class="product-collateral container explore_menu">
-					<h2> &nbsp&nbsp EXPLORE MENU </h2>
+					<h2> &nbsp&nbsp EXPLORE MENU Explore menu</h2>
 					<div id="productTabContent" class="tab-content">
 						<div class="tab-pane tablepane active" id="porkSisig">
 							<div class="col-main col-sm-12 product-grid product-grid">
